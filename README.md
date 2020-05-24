@@ -20,5 +20,5 @@ Python
 
 <b>How to play:</b>
 - Played with Python 3
-- Initialize code with git $ bash
+- Initialize code with git $ bash in terminal
 - run python3 rpssl.py
