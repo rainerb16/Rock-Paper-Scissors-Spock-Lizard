@@ -22,3 +22,6 @@ Python
 - Played with Python 3
 - Initialize code with git $ bash in terminal
 - run python3 rpssl.py
+
+<b>Room for improvements:</b>
+There may be too many else/if statements and this can be room for human error. Can be modified using dicionaries in future versions.
