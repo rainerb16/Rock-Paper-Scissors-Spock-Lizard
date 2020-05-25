@@ -10,7 +10,7 @@ while play == True:
 
     #Ask player to select option
     computer = t[randint(0, 4)]
-    user_input = input("Please select; Rock, Paper, Scissors, Spock or Lizard\n")
+    user_input = input("Please select: Rock, Paper, Scissors, Spock or Lizard\n")
     u = user_input.lower()
 
     player = u.capitalize()
