@@ -24,4 +24,6 @@ Python
 - run python3 rpssl.py
 
 <b>Room for improvements:</b>
-There may be too many else/if statements and this can be room for human error. Can be modified using dicionaries in future versions.
+There may be too many else/if statements and this can be room for human error. Can be modified using dicionaries, functions, enums and variables in a future version.
+
+Future version is still in prototype.
